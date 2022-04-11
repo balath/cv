@@ -69,12 +69,6 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spark",
           "type": "technology"
         }
@@ -82,18 +76,6 @@
       {
         "skill": {
           "name": "Scala",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Databricks",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
           "type": "technology"
         }
       }
