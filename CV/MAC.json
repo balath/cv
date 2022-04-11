@@ -1,0 +1,224 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sergio",
+      "surnames": "Flor",
+      "title": "Scala+Spark Dev & CS student",
+      "description": "I'm a musician who wants to become a software engineer, and I'm currently studying a CS degree at the UNED (132/240 ECTS). I like Functional Programming, with Scala, and I’m also interested in data science and AI. \nI'm into learning and using best practices in what I do, in order to improve and expand my knowledge, moreover, I'm always trying to look for relationships between my previous background and the new things to solve the problems I face.",
+      "location": {
+        "notes": "San Fernando (Cádiz)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/notifications/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/balath"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/balath83"
+      },
+      {
+        "type": "other",
+        "URL": "https://sergioflor.notion.site/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Working on music - studying on bits",
+        "fact": "I'm an instrumentalist in a public professional music band, with responsibility as section leader for 17 years. I'm also performing classical and modern music in differents events on alto, tenor, and soprano saxophones and clarinet with piano, strings and voice among others."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Databricks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Databricks Certified Associate Developer for Apache Spark 3.0",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Databricks",
+          "description": "",
+          "URL": "https://credentials.databricks.com/9f96cd60-8378-4c42-b81a-bf9dd45e7a31",
+          "image": {
+            "alt": "16491856424607350801669276089387.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/f1a3a98b-53f2-47e8-b2c4-22af5573daec_16491856424607350801.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Scala",
+            "type": "technology"
+          },
+          {
+            "name": "Spark",
+            "type": "technology"
+          },
+          {
+            "name": "Databricks",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Computing Engineering Degree",
+        "startDate": "2019-02-01",
+        "institution": {
+          "name": "UNED",
+          "description": "132/240 ECTS achieved and 30 in progress, with an average grade of 8.5\n(3.0 in 4.0 Scale), and having obtained honors in the subjects: “Automata,\nGrammars and Languages”, “Statistics” and “Software Testing”.\nExpected graduation date: Dec 2024.",
+          "image": {
+            "alt": "logo_informatica.gif",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/000e93eb-f44a-4a2f-b2e3-00a4faafc0c3_logo_informatica.gif"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          },
+          {
+            "name": "Haskell",
+            "type": "technology"
+          },
+          {
+            "name": "Prolog",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor of Music Degree",
+        "startDate": "2001-09-01",
+        "finishDate": "2006-11-01",
+        "institution": {
+          "name": "Conservatory “Manuel Castillo”, Seville",
+          "description": "Speciality: Saxophone",
+          "URL": "",
+          "image": {
+            "alt": "logo-desktop.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/11/6f835234-8ec3-49a3-b3c3-2a31c05eccdc_logo-desktop.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Audition",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/notifications/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Scala",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
