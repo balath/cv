@@ -10,6 +10,10 @@
       "surnames": "Flor",
       "title": "Scala+Spark Dev & CS student",
       "description": "I'm a musician who wants to become a software engineer, and I'm currently studying a CS degree at the UNED (132/240 ECTS). I like Functional Programming, with Scala, and I’m also interested in data science and AI. \nI'm into learning and using best practices in what I do, in order to improve and expand my knowledge, moreover, I'm always trying to look for relationships between my previous background and the new things to solve the problems I face.",
+      "avatar": {
+        "alt": "E8B7E6A7-0BC9-46B6-8AE2-2CB40C7EDF68.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/90d88cdc-1eeb-4667-b744-172d4ea1dfdc_e8b7e6a7-0bc9-46b6-8.jpeg"
+      },
       "location": {
         "country": "España",
         "region": "Andalucía",
